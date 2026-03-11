@@ -1,34 +1,32 @@
 # 👨‍💻 Guilherme Alonso Silva
 
 🚀 QA Automation Engineer em formação  
-💻 Python | Selenium | Test Automation | API Testing  
+💻 Python | Selenium | Pytest | API Testing | CI/CD
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Profissional de tecnologia com experiência em suporte, infraestrutura e automação de processos.  
+Profissional de tecnologia com experiência em **suporte, infraestrutura e automação de processos**.  
 Atualmente focado na transição para **Quality Assurance (QA)** com ênfase em **testes automatizados com Python**.
 
 Tenho grande facilidade de aprendizado e forte interesse em:
 
 - Automação de testes
-- Engenharia de software
-- Qualidade de aplicações
+- Qualidade de software
+- Engenharia de testes
 - CI/CD e DevOps
 
 ---
 
 ## 🧪 Portfólio de Automação de Testes
 
-Projetos em desenvolvimento:
-
 | Projeto | Descrição |
-|------|------|
-| Selenium Test Automation | Automação de testes web com Selenium |
-| API Test Automation | Testes automatizados de API |
-| Test Reporting | Relatórios automatizados de testes |
-| QA Framework | Estrutura profissional de testes |
+|-------|-----------|
+| [UI Automation - Selenium](https://github.com/Guilherme-AlonsoQa/qa-ui-automation-selenium) | Framework de automação de testes web utilizando Selenium + Pytest |
+| [API Testing - Pytest](https://github.com/Guilherme-AlonsoQa/qa-api-testing-pytest) | Testes automatizados de API utilizando Requests + Pytest |
+| [Performance Testing - Locust](https://github.com/Guilherme-AlonsoQa/qa-performance-testing-locust) | Testes de performance simulando múltiplos usuários |
+| [Robot Framework Tests](https://github.com/Guilherme-AlonsoQa/qa-robot-framework-tests) | Automação de testes utilizando Robot Framework |
 
 ---
 
@@ -37,8 +35,9 @@ Projetos em desenvolvimento:
 - Python
 - Selenium
 - Pytest
-- Git
-- GitHub
+- Robot Framework
+- Requests
+- Git & GitHub
 - Postman
 - SQL
 
@@ -46,8 +45,17 @@ Projetos em desenvolvimento:
 
 ## 📚 Atualmente estudando
 
-- Test Automation
+- Test Automation Frameworks
 - API Testing
-- CI/CD
+- CI/CD para testes automatizados
 - Quality Engineering
 
+---
+
+## 📫 Contato
+
+- LinkedIn: *(adicione seu LinkedIn aqui quando quiser)*
+
+---
+
+⭐ Sempre buscando evoluir em **Quality Assurance e Automação de Testes**
